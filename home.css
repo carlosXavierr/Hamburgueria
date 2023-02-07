@@ -1,0 +1,101 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+
+header{
+    background-color: rgb(234, 251, 0);
+    padding: 20px 0px;
+}
+.logo-home{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+nav li{
+    display: inline;
+    margin-left: 15px;
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+nav a:hover{
+    color: red;
+    text-decoration: underline;
+}
+body{
+    background-color: #82181c;
+}
+    
+
+.imagem-home{
+    
+    right: 50px;
+    margin-top: 100px;
+    float: right;
+    margin-right: 50px;
+}
+.historia{
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(234, 251, 1);
+    margin-left: 100px;
+    margin-top: 100px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.historia-paragrafo{
+    margin-left: 25px;
+    margin-top: 25px;
+    font-size: 25px;
+    color: rgb(234, 251, 1);
+    
+}
+.mapa-paragrafo{
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 25px;
+    font-size: 25px;
+    color: rgb(234, 251, 1);
+    margin-bottom: 50px;
+}
+
+    
+iframe{
+    margin-left: 215px;
+}
+.video{
+   width: 560px;
+   margin-top: 50px;
+    
+}
+footer{
+    text-align: center;
+    background: url(bg.jpg);
+    padding: 40px 0;
+    margin-top: 100px;
+    
+}
+.copyright{
+    color:white;
+    font-size: 13px;
+    margin-top: 20px;
+}
+.logo-fundo{
+    width:10% ;
+}
+.historia{
+    text-shadow: black 0.2em 0.3em 0.9em;
+}
